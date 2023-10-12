@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkillIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 50c7bd35cca40ec49b8e887aa9171517, type: 3}
+    - {fileID: 2800000, guid: 998b8b01836915b48acdcc466e464dbf, type: 3}
+    - {fileID: 2800000, guid: 3e15ba8ac0add15419eb449e6025eb55, type: 3}
+    - {fileID: 2800000, guid: 0f532eb310dd55e4bb9c8ba688262d13, type: 3}
+    - {fileID: 2800000, guid: 717bf53bd3533da42a533fc2a489b760, type: 3}
+    - {fileID: 2800000, guid: 49c2be4a6ee364e449b52e8c101d5d61, type: 3}
+    - {fileID: 2800000, guid: aa636ae12a71b114d9afb6ec3808cf2d, type: 3}
+    - {fileID: 2800000, guid: 184327e7a7e7ac940a62b1aa3697d7d6, type: 3}
+    - {fileID: 2800000, guid: 3ec65c0d4f148cd4d9d23c0a11eac778, type: 3}
+    - {fileID: 2800000, guid: e02138151d6256b48afafb833a78f107, type: 3}
+    - {fileID: 2800000, guid: c33f500af48587f479b82938646ca8ee, type: 3}
+    - {fileID: 2800000, guid: ad519701cebcedd48b07d83455ee40b4, type: 3}
+    - {fileID: 2800000, guid: ff5c1493e9c19a245a9a2581055527db, type: 3}
+    - {fileID: 2800000, guid: 1c7c64bc431f7514fae88b1d9f2b4833, type: 3}
+    - {fileID: 2800000, guid: 5b1dd5dead674954382ecab9311637bc, type: 3}
+    - {fileID: 2800000, guid: 1ac0986178f40954bafe6c342d876326, type: 3}
+    - {fileID: 2800000, guid: 58ab30b9f4913d941849150043982041, type: 3}
+    - {fileID: 2800000, guid: a326176454080384892f09593d72c597, type: 3}
+    - {fileID: 2800000, guid: 3ffa4fda5bf2675449e56b2ad033c2cc, type: 3}
+    - {fileID: 2800000, guid: ddca6f5e0286b844db3c3996a5e2de88, type: 3}
+    - {fileID: 2800000, guid: 476639ecd6e13684587b6aac205c71ea, type: 3}
+    - {fileID: 2800000, guid: 8dd7e7b1bb69acb42850694a5518c39d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ad519701cebcedd48b07d83455ee40b4, type: 3}
+  - {fileID: 21300000, guid: 998b8b01836915b48acdcc466e464dbf, type: 3}
+  - {fileID: 21300000, guid: 1ac0986178f40954bafe6c342d876326, type: 3}
+  - {fileID: 21300000, guid: 8dd7e7b1bb69acb42850694a5518c39d, type: 3}
+  - {fileID: 21300000, guid: aa636ae12a71b114d9afb6ec3808cf2d, type: 3}
+  - {fileID: 21300000, guid: ff5c1493e9c19a245a9a2581055527db, type: 3}
+  - {fileID: 21300000, guid: 0f532eb310dd55e4bb9c8ba688262d13, type: 3}
+  - {fileID: 21300000, guid: a326176454080384892f09593d72c597, type: 3}
+  - {fileID: 21300000, guid: e02138151d6256b48afafb833a78f107, type: 3}
+  - {fileID: 21300000, guid: 50c7bd35cca40ec49b8e887aa9171517, type: 3}
+  - {fileID: 21300000, guid: 184327e7a7e7ac940a62b1aa3697d7d6, type: 3}
+  - {fileID: 21300000, guid: 58ab30b9f4913d941849150043982041, type: 3}
+  - {fileID: 21300000, guid: c33f500af48587f479b82938646ca8ee, type: 3}
+  - {fileID: 21300000, guid: 49c2be4a6ee364e449b52e8c101d5d61, type: 3}
+  - {fileID: 21300000, guid: 3e15ba8ac0add15419eb449e6025eb55, type: 3}
+  - {fileID: 21300000, guid: 3ffa4fda5bf2675449e56b2ad033c2cc, type: 3}
+  - {fileID: 21300000, guid: 717bf53bd3533da42a533fc2a489b760, type: 3}
+  - {fileID: 21300000, guid: 1c7c64bc431f7514fae88b1d9f2b4833, type: 3}
+  - {fileID: 21300000, guid: 476639ecd6e13684587b6aac205c71ea, type: 3}
+  - {fileID: 21300000, guid: 3ec65c0d4f148cd4d9d23c0a11eac778, type: 3}
+  - {fileID: 21300000, guid: ddca6f5e0286b844db3c3996a5e2de88, type: 3}
+  - {fileID: 21300000, guid: 5b1dd5dead674954382ecab9311637bc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - healing
+  - assassination
+  - meteor
+  - swordemperor
+  - capitalism
+  - hellfire
+  - bladestorm
+  - Nature_Spell_05
+  - greedyattack
+  - arrowrain
+  - explosion
+  - multishot
+  - headshot
+  - bombshot
+  - attack
+  - necromanticattack
+  - Blood_Spell_07
+  - lighteningstorm
+  - swordbeam
+  - gamble
+  - sniping
+  - magicmissile
+  m_RenderDataMap: {}
+  m_Tag: SkillIconAtlas
+  m_IsVariant: 0

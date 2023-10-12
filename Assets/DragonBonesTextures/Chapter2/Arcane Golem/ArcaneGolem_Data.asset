@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: ArcaneGolem_Data
+  m_EditorClassIdentifier: 
+  dataName: ArcaneGolem
+  dragonBonesJSON: {fileID: 4900000, guid: a9e4745dc0dd59843a90c124194e79ad, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 1be205b724c242e4188e437e164e08c1, type: 3}
+    texture: {fileID: 2800000, guid: 5d08136622930ce4b868e58df3900987, type: 3}
+    material: {fileID: 2100000, guid: c8fb8da6caa9c37478c81ce80db11685, type: 2}
+    uiMaterial: {fileID: 0}

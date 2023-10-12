@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1077417987047</string>
+  <string name="google_storage_bucket" translatable="false">kill-the-demon-94391512.appspot.com</string>
+  <string name="project_id" translatable="false">kill-the-demon-94391512</string>
+  <string name="google_api_key" translatable="false">AIzaSyBqbWHXJ67XXbSr_aKdvER2AMLII4u0x3M</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBqbWHXJ67XXbSr_aKdvER2AMLII4u0x3M</string>
+  <string name="google_app_id" translatable="false">1:1077417987047:android:282b2a1e23a1975ecf8b42</string>
+  <string name="default_android_client_id" translatable="false">1077417987047-c4v8t6bjai85af447e2nvg1fqs6gnaqk.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1077417987047-kdtmqte1c0go9faqlo6l7q753u77govo.apps.googleusercontent.com</string>
+</resources>

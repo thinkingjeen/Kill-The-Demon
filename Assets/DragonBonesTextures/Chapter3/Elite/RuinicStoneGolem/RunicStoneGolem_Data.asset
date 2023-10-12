@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: RunicStoneGolem_Data
+  m_EditorClassIdentifier: 
+  dataName: RunicStoneGolem_ske
+  dragonBonesJSON: {fileID: 4900000, guid: dacb85a9d85c7934ea625d469159274d, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 65eb418d87c5ee94c93e9c0aa99e4624, type: 3}
+    texture: {fileID: 2800000, guid: e86de02f1ec8d72408aee1f4c7dee4f8, type: 3}
+    material: {fileID: 2100000, guid: 5b358f98632e66f4fa2e46300470d5c0, type: 2}
+    uiMaterial: {fileID: 0}

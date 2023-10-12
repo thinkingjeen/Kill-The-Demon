@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1111,
+    "name": "아이언해머",
+    "grade": 0,
+    "type": 1,
+    "attack": 40,
+    "delay": 0.34,
+    "coefficient": 1.3,
+    "atlasName": "weapons_0"
+  },
+  {
+    "id": 1112,
+    "name": "플래티넘해머",
+    "grade": 1,
+    "type": 1,
+    "attack": 55,
+    "delay": 0.34,
+    "coefficient": 1.3,
+    "atlasName": "weapons_1"
+  },
+  {
+    "id": 1113,
+    "name": "티타늄해머",
+    "grade": 2,
+    "type": 1,
+    "attack": 70,
+    "delay": 0.34,
+    "coefficient": 1.3,
+    "atlasName": "weapons_2"
+  },
+  {
+    "id": 1114,
+    "name": "블러드해머",
+    "grade": 3,
+    "type": 1,
+    "attack": 90,
+    "delay": 0.34,
+    "coefficient": 1.3,
+    "atlasName": "weapons_3"
+  },
+  {
+    "id": 1121,
+    "name": "아이언액스",
+    "grade": 0,
+    "type": 1,
+    "attack": 60,
+    "delay": 0.34,
+    "coefficient": 0.8,
+    "atlasName": "weapons_4"
+  },
+  {
+    "id": 1122,
+    "name": "블루액스",
+    "grade": 1,
+    "type": 1,
+    "attack": 69,
+    "delay": 0.34,
+    "coefficient": 0.8,
+    "atlasName": "weapons_5"
+  },
+  {
+    "id": 1123,
+    "name": "코스믹액스",
+    "grade": 2,
+    "type": 1,
+    "attack": 83,
+    "delay": 0.34,
+    "coefficient": 0.8,
+    "atlasName": "weapons_6"
+  },
+  {
+    "id": 1124,
+    "name": "헤라클래스액스",
+    "grade": 3,
+    "type": 1,
+    "attack": 107,
+    "delay": 0.34,
+    "coefficient": 0.8,
+    "atlasName": "weapons_7"
+  },
+  {
+    "id": 1131,
+    "name": "아이언소드",
+    "grade": 0,
+    "type": 1,
+    "attack": 50,
+    "delay": 0.34,
+    "coefficient": 1.0,
+    "atlasName": "weapons_8"
+  },
+  {
+    "id": 1132,
+    "name": "컬스드소드",
+    "grade": 1,
+    "type": 1,
+    "attack": 58,
+    "delay": 0.34,
+    "coefficient": 1.0,
+    "atlasName": "weapons_9"
+  },
+  {
+    "id": 1133,
+    "name": "이빌소드",
+    "grade": 2,
+    "type": 1,
+    "attack": 69,
+    "delay": 0.34,
+    "coefficient": 1.0,
+    "atlasName": "weapons_10"
+  },
+  {
+    "id": 1134,
+    "name": "세크리드소드",
+    "grade": 3,
+    "type": 1,
+    "attack": 90,
+    "delay": 0.34,
+    "coefficient": 1.0,
+    "atlasName": "weapons_11"
+  },
+  {
+    "id": 1141,
+    "name": "장창",
+    "grade": 0,
+    "type": 1,
+    "attack": 80,
+    "delay": 0.62,
+    "coefficient": 1.1,
+    "atlasName": "weapons_12"
+  },
+  {
+    "id": 1142,
+    "name": "금빛장창",
+    "grade": 1,
+    "type": 1,
+    "attack": 92,
+    "delay": 0.62,
+    "coefficient": 1.1,
+    "atlasName": "weapons_13"
+  },
+  {
+    "id": 1143,
+    "name": "용의수호",
+    "grade": 2,
+    "type": 1,
+    "attack": 111,
+    "delay": 0.62,
+    "coefficient": 1.1,
+    "atlasName": "weapons_14"
+  },
+  {
+    "id": 1144,
+    "name": "학살자",
+    "grade": 3,
+    "type": 1,
+    "attack": 144,
+    "delay": 0.62,
+    "coefficient": 1.1,
+    "atlasName": "weapons_15"
+  },
+  {
+    "id": 1211,
+    "name": "우든보우",
+    "grade": 0,
+    "type": 2,
+    "attack": 80,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_16"
+  },
+  {
+    "id": 1212,
+    "name": "에메랄드보우",
+    "grade": 1,
+    "type": 2,
+    "attack": 92,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_17"
+  },
+  {
+    "id": 1213,
+    "name": "라이트시커",
+    "grade": 2,
+    "type": 2,
+    "attack": 111,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_18"
+  },
+  {
+    "id": 1214,
+    "name": "드래곤아이즈",
+    "grade": 3,
+    "type": 2,
+    "attack": 144,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_19"
+  },
+  {
+    "id": 1221,
+    "name": "장궁",
+    "grade": 0,
+    "type": 2,
+    "attack": 80,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_20"
+  },
+  {
+    "id": 1222,
+    "name": "흑장궁",
+    "grade": 1,
+    "type": 2,
+    "attack": 92,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_21"
+  },
+  {
+    "id": 1223,
+    "name": "맹염궁",
+    "grade": 2,
+    "type": 2,
+    "attack": 111,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_22"
+  },
+  {
+    "id": 1224,
+    "name": "숲의수호자",
+    "grade": 3,
+    "type": 2,
+    "attack": 144,
+    "delay": 0.8,
+    "coefficient": 1.0,
+    "atlasName": "weapons_23"
+  },
+  {
+    "id": 1231,
+    "name": "블랙매그넘",
+    "grade": 0,
+    "type": 2,
+    "attack": 60,
+    "delay": 0.59,
+    "coefficient": 1.1,
+    "atlasName": "weapons_24"
+  },
+  {
+    "id": 1232,
+    "name": "블랙라이플",
+    "grade": 1,
+    "type": 2,
+    "attack": 69,
+    "delay": 0.59,
+    "coefficient": 1.1,
+    "atlasName": "weapons_25"
+  },
+  {
+    "id": 1233,
+    "name": "악마사냥꾼",
+    "grade": 2,
+    "type": 2,
+    "attack": 83,
+    "delay": 0.59,
+    "coefficient": 1.1,
+    "atlasName": "weapons_26"
+  },
+  {
+    "id": 1234,
+    "name": "신의분노",
+    "grade": 3,
+    "type": 2,
+    "attack": 108,
+    "delay": 0.59,
+    "coefficient": 1.1,
+    "atlasName": "weapons_27"
+  },
+  {
+    "id": 1311,
+    "name": "우드스테프",
+    "grade": 0,
+    "type": 3,
+    "attack": 50,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_28"
+  },
+  {
+    "id": 1312,
+    "name": "레드쥬얼스테프",
+    "grade": 1,
+    "type": 3,
+    "attack": 58,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_29"
+  },
+  {
+    "id": 1313,
+    "name": "문포스",
+    "grade": 2,
+    "type": 3,
+    "attack": 69,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_30"
+  },
+  {
+    "id": 1314,
+    "name": "숲의인도자",
+    "grade": 3,
+    "type": 3,
+    "attack": 90,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_31"
+  },
+  {
+    "id": 1321,
+    "name": "낡은지팡이",
+    "grade": 0,
+    "type": 3,
+    "attack": 50,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_32"
+  },
+  {
+    "id": 1322,
+    "name": "철제홀",
+    "grade": 1,
+    "type": 3,
+    "attack": 58,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_33"
+  },
+  {
+    "id": 1323,
+    "name": "천사의날개",
+    "grade": 2,
+    "type": 3,
+    "attack": 69,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_34"
+  },
+  {
+    "id": 1324,
+    "name": "종언의지팡이",
+    "grade": 3,
+    "type": 3,
+    "attack": 90,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_35"
+  },
+  {
+    "id": 1331,
+    "name": "블루스테프",
+    "grade": 0,
+    "type": 3,
+    "attack": 50,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_36"
+  },
+  {
+    "id": 1332,
+    "name": "이빌문",
+    "grade": 1,
+    "type": 3,
+    "attack": 58,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_37"
+  },
+  {
+    "id": 1333,
+    "name": "스네이크스테프",
+    "grade": 2,
+    "type": 3,
+    "attack": 69,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_38"
+  },
+  {
+    "id": 1334,
+    "name": "대지의불꽃",
+    "grade": 3,
+    "type": 3,
+    "attack": 90,
+    "delay": 0.59,
+    "coefficient": 1.5,
+    "atlasName": "weapons_39"
+  }
+]

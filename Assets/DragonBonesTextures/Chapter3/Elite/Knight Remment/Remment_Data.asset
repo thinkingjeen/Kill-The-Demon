@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Remment_Data
+  m_EditorClassIdentifier: 
+  dataName: Remment
+  dragonBonesJSON: {fileID: 4900000, guid: 8e0f7e90081cc5142a831bb79d2a0b80, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: f7da28dd786d60c45912440b4e4ce9cd, type: 3}
+    texture: {fileID: 2800000, guid: 0f8dcf0818edf904dafbf9f5a9008965, type: 3}
+    material: {fileID: 2100000, guid: 2c11e1c169e321b4ea7dad5b216e14e6, type: 2}
+    uiMaterial: {fileID: 0}

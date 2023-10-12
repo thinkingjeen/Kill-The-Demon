@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077417987047",
+    "project_id": "kill-the-demon-94391512",
+    "storage_bucket": "kill-the-demon-94391512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077417987047:android:282b2a1e23a1975ecf8b42",
+        "android_client_info": {
+          "package_name": "com.PinkDemon.KillTheDemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077417987047-c4v8t6bjai85af447e2nvg1fqs6gnaqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PinkDemon.KillTheDemon",
+            "certificate_hash": "4c41e35375421d56896207fb866b6078254b9883"
+          }
+        },
+        {
+          "client_id": "1077417987047-kdtmqte1c0go9faqlo6l7q753u77govo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbWHXJ67XXbSr_aKdvER2AMLII4u0x3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077417987047-kdtmqte1c0go9faqlo6l7q753u77govo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

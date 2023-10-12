@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e2881d29cf35a1848bd9cee6ddbebd4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - playerStartPosition: {instanceID: 0}
+  - portal: {instanceID: 0}
+  - fieldTile: {instanceID: 0}
+  - alertPrefab: {fileID: 5752915364636328867, guid: 7592babb965168b409070a983f08737a, type: 3}
+  - projectilePrefab: {instanceID: 0}
+  - projectileAtlas: {instanceID: 0}
+  - effectManager: {instanceID: 0}
+  - boomAudio: {fileID: 8300000, guid: 42180d2df67eabd40988c325ef08db3c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

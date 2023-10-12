@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Flynn_Data
+  m_EditorClassIdentifier: 
+  dataName: Flynn
+  dragonBonesJSON: {fileID: 4900000, guid: 1ec7d0932b23e684a974d2bf136138e9, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 2e94412490709eb4fb8ac241a853ef27, type: 3}
+    texture: {fileID: 2800000, guid: 56c57d9ca1ad7b644b2281fa0ebbcc7e, type: 3}
+    material: {fileID: 2100000, guid: 7abdd032fc5c29a43b4070eb0e61ac06, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 3230e4b2ed3a54f4bbb5f02f2aa5d437, type: 2}
